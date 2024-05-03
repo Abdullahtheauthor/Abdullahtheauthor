@@ -19,7 +19,7 @@
 
 ### Connect with Me :
 
-<a href="[abdullahgoda197@gmail.com](https://www.linkedin.com/in/abdullah-goda-623540129/)" target="_blank"><img src="https://img.shields.io/badge/Abdullah%20Goda-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="[abdullahgoda197@gmail.com](https://www.linkedin.com/in/abdullah-goda-623540129/)" ><img src="https://img.shields.io/badge/Abdullah%20Goda-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 
 ### 🛠 &nbsp;Tech Stack
